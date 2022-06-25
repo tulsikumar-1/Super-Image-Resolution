@@ -20,8 +20,10 @@ Kernel Initializer: Glorot Uniform
 ![image](https://user-images.githubusercontent.com/104934568/175792813-1dc9048e-46c3-41ed-a56c-ee7e1a90622b.png)
 
 #### Comparasion Between output and Input 
-![image](https://user-images.githubusercontent.com/104934568/175792849-b136e93d-0a9f-4125-8783-e65bf2d2a89f.png)
+![image](https://user-images.githubusercontent.com/104934568/175793013-adb6f9ec-6465-48bf-b861-298da531e737.png)
 
+#### Deciding Factor PNSR
+PNSR is increased between 2 to 7
 #### Conclusion
 Image super resolution is challenging but it is an interesting task. In this task, image super resolution by degrading the image with multiple interpolation methods and then reconstructing the image using our denoising autoencoder model is implemended . The results were quite significant as the shown in the comparison with increase in PNSR score of reconstructed images and decrease in their mean squared error.
 ![image](https://user-images.githubusercontent.com/104934568/175792891-af9ccf90-3c1d-4b54-bdc2-3dbfd6d78b5f.png)

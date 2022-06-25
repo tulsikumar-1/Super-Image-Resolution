@@ -17,7 +17,7 @@ Activation function: Relu
 Kernel Initializer: Glorot Uniform
 
 #### Training and Validation Losses
-![image](https://user-images.githubusercontent.com/104934568/175792813-1dc9048e-46c3-41ed-a56c-ee7e1a90622b.png)
+
 
 #### Comparasion Between output and Input 
 ![image](https://user-images.githubusercontent.com/104934568/175793013-adb6f9ec-6465-48bf-b861-298da531e737.png)

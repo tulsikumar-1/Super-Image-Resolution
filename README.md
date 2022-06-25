@@ -16,10 +16,11 @@ Activation function: Relu
 Kernel Initializer: Glorot Uniform
 
 #### Training and Validation Losses
-
+![image](https://user-images.githubusercontent.com/104934568/175793013-adb6f9ec-6465-48bf-b861-298da531e737.png)
 
 #### Comparasion Between output and Input 
-![image](https://user-images.githubusercontent.com/104934568/175793013-adb6f9ec-6465-48bf-b861-298da531e737.png)
+![image](https://user-images.githubusercontent.com/104934568/175793128-3ea6127b-e05e-48b5-89be-0073d1641538.png)
+
 
 #### Deciding Factor PNSR
 PNSR is increased between 2 to 7
